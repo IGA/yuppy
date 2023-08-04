@@ -35,4 +35,6 @@ flowchart TB
   K --> A
   I --> J
   E --> K
+  J --> H
+  J --> G
 ```
